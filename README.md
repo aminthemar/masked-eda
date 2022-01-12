@@ -1,5 +1,16 @@
 # Masked-EDA: The Effect of Using Masked Language Models in Random Textual Data Augmentation
 
+```
+@inproceedings{rashid2021effect,
+  title={The Effect of Using Masked Language Models in Random Textual Data Augmentation},
+  author={Rashid, Mohammad Amin and Amirkhani, Hossein},
+  booktitle={2021 26th International Computer Conference, Computer Society of Iran (CSICC)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+```
+
 The original EDA code is shared here:
 https://github.com/jasonwei20/eda_nlp
 
