@@ -1,5 +1,7 @@
 # Masked-EDA: The Effect of Using Masked Language Models in Random Textual Data Augmentation
 
+Code for our paper accepted at CSICC 2021.
+
 ```
 @inproceedings{rashid2021effect,
   title={The Effect of Using Masked Language Models in Random Textual Data Augmentation},
